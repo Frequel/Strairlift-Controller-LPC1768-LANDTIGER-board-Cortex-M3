@@ -1,4 +1,4 @@
-# Handicap-lift-platform
+# Stairlift (Handicap or old people stair elevator platform)
 University project for the Computer Architectures course at Politecnico di Torino 
 
 ## Description
